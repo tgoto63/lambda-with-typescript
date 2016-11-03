@@ -1,0 +1,27 @@
+{
+  "name": "lambda-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "serverless-webpack": "^1.0.0-rc.2",
+    "ts-loader": "^1.0.0",
+    "typescript": "^2.0.6",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {
+    "serverless-webpack": "^1.0.0-rc.2",
+    "ts-loader": "^1.0.0",
+    "typescript": "^2.0.6",
+    "webpack": "^1.13.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goto63/lambda-with-typescript.git"
+  },
+  "author": "goto63",
+  "license": "ISC"
+}
